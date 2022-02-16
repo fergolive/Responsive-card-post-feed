@@ -1,6 +1,7 @@
 # Responsive card posts for feeds content
 
 Use these cards on your website by downloading the repo
+link:https://fergolive.github.io/Responsive-card-post-feed/
 
 ![ScreenShot](/screenshots/latest.png)
 
