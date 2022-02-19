@@ -4,9 +4,9 @@
 Use these cards on your website by downloading the repo
 
 
-link:https://fergolive.github.io/Responsive-card-post-feed/
+link: https://fergolive.github.io/Responsive-card-post-feed/
 
-
+![ScreenShot](/screenshots/latest2.png)
 ![ScreenShot](/screenshots/latest.png)
 
 ## Contributing
